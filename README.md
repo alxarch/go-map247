@@ -1,2 +1,2 @@
 # go-map247
-Weekly shcadule structs for go
+Weekly schedule structs for go
